@@ -1,1 +1,1 @@
-# jcloudify-starter-template
+# poja-starter-template
